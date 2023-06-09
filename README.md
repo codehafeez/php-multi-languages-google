@@ -14,7 +14,7 @@ http://localhost/php-multi-languages-google
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/payment-stripe_02/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/php-multi-languages-google/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
